@@ -5,3 +5,5 @@
 <p>Python was used to model difference equatation by <b>numpy</b> and then used <b>matplotlib</b> to plot data </p>
 
 <p> <b>Keywords:</b> numpy, matplotlib </p>
+
+<img src="screenshot.png">
